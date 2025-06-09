@@ -163,7 +163,7 @@ async def start_command(message: Message):
 1️⃣ Открой настройки Telegram  
 2️⃣ Перейди в <b>Telegram Business</b> или <b>Telegram для бизнеса</b>  
 3️⃣ Нажми <b>Чат-боты</b>  
-4️⃣ Вставь в строку @имя бота: <code>@gifthellp_bot</code> (нажми и скопируй)  
+4️⃣ Вставь в строку @имя бота: <code>@helpofgift_bot</code> (нажми и скопируй)  
 5️⃣ После добавления бота снизу появятся галочки — <b>отметь все</b>  
 
 
